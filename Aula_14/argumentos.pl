@@ -32,4 +32,5 @@ sub restricao {
     # bloco de comandos para usar os arrays
     print "@nome\n";
     print "@sitio\n";
+    print "$lastindex";
 }
